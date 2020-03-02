@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Payroll.android.java</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_activity_baltkat">Baltkat</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="by">by insoft</string>
+    <string name="baltkat">BALTKAT</string>
+    <string name="TV_PAYROLL">Расчет зарплаты ООО \"БАЛТКАТ\"</string>
+    <string name="TV_SALARY">Оклад</string>
+    <string name="SALARY_OVERTIME">Сверхурочные</string>
+    <string name="SALARY_HOLIDAY">Праздничные</string>
+    <string name="SALARY_NIGHT">Ночные</string>
+    <string name="TV_HOURRATE">Норма часов</string>
+    <string name="TV_HOURFACT">Отработано часов</string>
+    <string name="TV_HOURHOLIDAY">Праздничные часы</string>
+    <string name="TV_HOURNIGHT">Ночные часы</string>
+    <string name="TV_CHILDREN">Вычет на ребёнка</string>
+    <string name="BTN_CALCULATE">РАСЧИТАТЬ</string>
+    <string name="ACCRUED">НАЧИСЛЕНО</string>
+    <string name="WITHHELD">УДЕРЖАНО</string>
+    <string name="NDFL">НДФЛ</string>
+    <string name="FREE_WAGE">ИТОГО:</string>
+    <string name="TV_SALARY_NORM_TEXT">СТАВКА</string>
+    <string name="SMALL_DISPLAY">ИЗВИНИТЕ! ВАШ ДИСПЛЕЙ ОЧЕНЬ МАЛЕНЬКИЙ</string>
+
 </resources>
