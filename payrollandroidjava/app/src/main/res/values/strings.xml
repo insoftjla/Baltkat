@@ -1,14 +1,10 @@
 <resources>
-    <string name="app_name">Payroll.android.java</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
-
-    <string name="title_activity_baltkat">Baltkat</string>
+    <string name="app_name">Payroll</string>
+    <string name="title_activity">Payroll</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="by">by insoft</string>
-    <string name="baltkat">BALTKAT</string>
-    <string name="TV_PAYROLL">Расчет зарплаты ООО \"БАЛТКАТ\"</string>
+    <string name="peyroll">PAYROLL</string>
+    <string name="TV_PAYROLL">Расчет зарплаты</string>
     <string name="TV_SALARY">Оклад</string>
     <string name="SALARY_OVERTIME">Сверхурочные</string>
     <string name="SALARY_HOLIDAY">Праздничные</string>
@@ -23,7 +19,25 @@
     <string name="WITHHELD">УДЕРЖАНО</string>
     <string name="NDFL">НДФЛ</string>
     <string name="FREE_WAGE">ИТОГО:</string>
-    <string name="TV_SALARY_NORM_TEXT">СТАВКА</string>
+    <string name="TV_SALARY_NORM_TEXT">Ставка</string>
     <string name="SMALL_DISPLAY">ИЗВИНИТЕ! ВАШ ДИСПЛЕЙ ОЧЕНЬ МАЛЕНЬКИЙ</string>
+    
+    <string name="JANUARY">ЯНВАРЬ</string>
+    <string name="FEBRUARY">ФЕВРАЛЬ</string>
+    <string name="MARCH">МАРТ</string>
+    <string name="APRIL">АПРЕЛЬ</string>
+    <string name="MAY">МАЙ</string>
+    <string name="JUNE">ИЮНЬ</string>
+    <string name="JULE">ИЮЛЬ</string>
+    <string name="AUGUST">АВГУСТ</string>
+    <string name="SEPTEMBER">СЕНТЯБРЬ</string>
+    <string name="OCTOBER">ОКТЯБРЬ</string>
+    <string name="NOVEMBER">НОЯБРЬ</string>
+    <string name="DECEMBER">ДЕКАБРЬ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
 
 </resources>
